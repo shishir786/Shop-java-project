@@ -6,4 +6,4 @@ This Java project involves creating a store management system with a Graphical U
 
 Project Managed by Md. Abdullah Shishir,MD IBRAHIM HOSSEN HRIDOY
 Student BSc CSE
-American Internatuinal University Bangladesh
+American International University Bangladesh
