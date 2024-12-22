@@ -64,6 +64,16 @@ Feel free to customize this README further based on your specific project detail
 
 
 ---
+## Default Credentials for Testing
+
+Use these credentials to explore the system:
+
+| User    | ID           | Password |
+|---------|--------------|----------|
+| Admin   | admin        | admin    |
+| User    | shishir786   | ds      |
+
+
 ## Screenshots
 
 Include screenshots of the project here to showcase the interface and features. For example:
