@@ -24,7 +24,7 @@ A comprehensive Shop Management System developed in Java using Swing for the gra
 
 ## Project Authors
 
-- Md. Abdullah Shishir
+- [Md. Abdullah Shishir](https://github.com/shishir786)
 - Md. Ibrahim Hossen Hridoy
 
 **Student, BSc CSE**  
@@ -62,9 +62,6 @@ Feel free to customize this README further based on your specific project detail
 
    The application will create these files if they do not already exist.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 ## Screenshots
@@ -90,6 +87,21 @@ Include screenshots of the project here to showcase the interface and features. 
 
 
 
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Contributing
+
+We welcome contributions to the project! If you’d like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch with a descriptive name.
+3. Make your changes or add features.
+4. Submit a pull request to the main branch.
+
+
+## Support
+If you encounter any issues or need help with the setup, please create an issue on the repository or contact the author directly.
 
 
 
