@@ -24,8 +24,9 @@ A comprehensive Shop Management System developed in Java using Swing for the gra
 
 ## Project Authors
 
-- [Md. Abdullah Shishir](https://github.com/shishir786)
-- Md. Ibrahim Hossen Hridoy
+1. **Abdullah Shishir** - [shishir786](https://github.com/shishir786)
+2. **Md. Ibrahim Hossen Hridoy** -[Ibrahim-Hridoy](https://github.com/Ibrahim-Hridoy)
+
 
 **Student, BSc CSE**  
 American International University Bangladesh - AIUB
